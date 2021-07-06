@@ -1,1 +1,1 @@
-# https-github.com-Dipesh1-my-mini-project-test4
+my.app.id=1
